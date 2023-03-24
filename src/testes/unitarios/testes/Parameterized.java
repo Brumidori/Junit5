@@ -29,10 +29,5 @@ public class Parameterized {
 		
 		assertEquals(area, resultado);
 	}
-	
-//	@ParameterizedTest
-//	@Test
-//	public void calcularPerimetro() {
-//		
-//	}
+
 }
